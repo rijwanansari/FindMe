@@ -1,0 +1,27 @@
+﻿@page "/"
+@inject IpService IpService
+@inject IHttpContextAccessor HttpContextAccessor
+
+<PageTitle>Love, Romatic and Special songs</PageTitle>
+
+<h1>Love, Romatic and Special songs</h1>
+
+<p>Loadng.....</p>>
+
+//add code here
+@code {
+    private IpInfo IpInfo;
+
+    //get current http context
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        //var context = new HttpContextAccessor().HttpContext;
+        var context = HttpContextAccessor.HttpContext;
+        if (context != null)
+        {
+            IpInfo = await IpService.GetIpInfoAsync(context);
+        }
+    }
+}

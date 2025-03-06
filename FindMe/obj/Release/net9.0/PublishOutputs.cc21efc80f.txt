@@ -1,0 +1,7 @@
+D:\Projects\rijwan\FindMe\publish\FindMe.exe
+D:\Projects\rijwan\FindMe\publish\appsettings.Development.json
+D:\Projects\rijwan\FindMe\publish\appsettings.json
+D:\Projects\rijwan\FindMe\publish\FindMe.dll
+D:\Projects\rijwan\FindMe\publish\FindMe.deps.json
+D:\Projects\rijwan\FindMe\publish\FindMe.runtimeconfig.json
+D:\Projects\rijwan\FindMe\publish\FindMe.pdb

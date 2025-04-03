@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\rijwan\\FindMe\\FindMe\\FindMe.csproj": {}
+    "e:\\Projects\\rijwan\\FindMe\\FindMe\\FindMe.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\rijwan\\FindMe\\FindMe\\FindMe.csproj": {
+    "e:\\Projects\\rijwan\\FindMe\\FindMe\\FindMe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\rijwan\\FindMe\\FindMe\\FindMe.csproj",
+        "projectUniqueName": "e:\\Projects\\rijwan\\FindMe\\FindMe\\FindMe.csproj",
         "projectName": "FindMe",
-        "projectPath": "E:\\Projects\\rijwan\\FindMe\\FindMe\\FindMe.csproj",
+        "projectPath": "e:\\Projects\\rijwan\\FindMe\\FindMe\\FindMe.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\rijwan\\FindMe\\FindMe\\obj\\",
+        "outputPath": "e:\\Projects\\rijwan\\FindMe\\FindMe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
